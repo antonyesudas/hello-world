@@ -1,0 +1,19 @@
+{
+    "name": "antonyesudas/hello-world",
+    "description": "Hello Composer",
+    "type": "private",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Antony Yesudas",
+            "email": "antony.yesudas@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
